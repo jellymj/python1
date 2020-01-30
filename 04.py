@@ -17,8 +17,8 @@ def q4(word):
 
         if i in saffy:
             return True
-        
-    return False
+        else:
+            return False
             
 
 
